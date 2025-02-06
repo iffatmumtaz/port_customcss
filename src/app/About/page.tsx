@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div>
       <h1 className='heading'>ABOUT ME</h1>
-      <Image src="/images/banner-jpeg.jpeg" alt="img" width={200} height={200} className="img1" />
+      <Image src="/images/banner.jpeg" alt="img" width={200} height={200} className="img1" />
       <h2>Microdosing synth tattooed vexillogist</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Eum vel totam esse ducimus quis? Lorem ipsum dolor
