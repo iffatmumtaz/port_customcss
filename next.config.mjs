@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default nextConfig;
+const nextConfig = {
+  
+    images: {
+      domains: ['image.remotepattern', 'img.icons8.com'], // Add img.icons8.com here
+    },
+  };
+  
+  export default nextConfig;
+  
