@@ -26,8 +26,8 @@ const Project = () => {
             </div> 
 
           <div className='card'>
-      <Image src="/images/pic-png.png "alt="" width={200}  height={200} className="img2"/>
-      <h3 className='card-h'>A Simple website</h3>
+      <Image src="/images/burger.png "alt="" width={200}  height={200} className="img2"/>
+      <h3 className='card-h'>E-commerce website</h3>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis doloremque pariatur cum dolore ipsum!</p>
       <span><Link href="https://github.com/iffatmumtaz/simple-website.git" className="span">preveiw</Link></span>
           <div className='tag-btn'>
@@ -38,8 +38,8 @@ const Project = () => {
           </div> 
 
           <div className='card'>
-      <Image src="/images/web.png"alt="" width={200}  height={200} className="img2"/>
-      <h3 className='card-h'> Simple portfolio</h3>
+      <Image src="/images/timer.png"alt="" width={200}  height={200} className="img2"/>
+      <h3 className='card-h'> Countdown timer</h3>
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos officiis blanditiis sed ducimus sequi? </p>
       
        <span><Link href="https://github.com/iffatmumtaz/html.css.git" className="span">preveiw</Link></span>
@@ -50,19 +50,19 @@ const Project = () => {
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/pic 2-png.png"alt="" width={200}  height={200} className="img2"/>
-      <h3 className='card-h'>  Back Ground changer</h3>
+      <Image src="/images/web.png"alt="" width={200}  height={200} className="img2"/>
+      <h3 className='card-h'> A Simple website</h3>
       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor qui debitis veniam voluptates possimus?</p>
       <span><Link href="" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Typescript</button>
-          <button className="tag1">Html</button>
-          <button className="tag2">Css</button>
+          <button className="tag1">Next.js</button>
+          <button className="tag2">Tailwind</button>
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/pic 2-png.png"alt="" width={200}  height={200} className="img2"/>
-      <h3 className='card-h'>  Back Ground changer</h3>
+      <Image src="/images/port.png"alt="" width={200}  height={200} className="img2"/>
+      <h3 className='card-h'> My portfolio</h3>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, obcaecati. Explicabo in non eveniet.</p>
       <span><Link href="" className="span">preveiw</Link></span>
           <div className='tag-btn'>
@@ -72,8 +72,8 @@ const Project = () => {
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/pic 2-png.png"alt="" width={200}  height={200} className="img2"/>
-      <h3 className='card-h'>  Back Ground changer</h3>
+      <Image src="/images/custom.png"alt="" width={200}  height={200} className="img2"/>
+      <h3 className='card-h'>Custom css portfolio</h3>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores reiciendis cumque amet aut quas?</p>
       <span><Link href="" className="span">preveiw</Link></span>
           <div className='tag-btn'>
