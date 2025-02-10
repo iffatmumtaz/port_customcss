@@ -26,7 +26,7 @@ const Project = () => {
             </div> 
 
           <div className='card'>
-      <Image src="/images/portfolio.png "alt="" width={200}  height={200} className="img2"/>
+      <Image src="/portfolio.png "alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'>E-commerce website</h3>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis doloremque pariatur cum dolore ipsum!</p>
       <span><Link href="https://github.com/iffatmumtaz/simple-website.git" className="span">preveiw</Link></span>
