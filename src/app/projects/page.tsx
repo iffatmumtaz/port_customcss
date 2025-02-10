@@ -14,10 +14,10 @@ const Project = () => {
 
     <div className='main'>
       <div className='card'>
-      <Image src="/images/burgerweb.png"alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/burger.png"alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'> Dynamic Resume</h3>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus reiciendis voluptatum impedit ipsum?</p>
-          <span><Link href="https://github.com/iffatmumtaz/milestone-4.git" className="span">preveiw</Link></span>
+          <span><Link href="https://e-commerce-mile3-1l38.vercel.app/" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Typescript</button>
           <button className="tag1">Html</button>
@@ -26,10 +26,10 @@ const Project = () => {
             </div> 
 
           <div className='card'>
-      <Image src="/portfolio.png "alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/port.png "alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'>E-commerce website</h3>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis doloremque pariatur cum dolore ipsum!</p>
-      <span><Link href="https://github.com/iffatmumtaz/simple-website.git" className="span">preveiw</Link></span>
+      <span><Link href="https://portfoliomile4-l31x.vercel.app/" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Next.js</button>
           <button className="tag1">React</button>
@@ -38,7 +38,7 @@ const Project = () => {
           </div> 
 
           <div className='card'>
-      <Image src="/images/counttimer.png"alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/count.png"alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'> Countdown timer</h3>
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos officiis blanditiis sed ducimus sequi? </p>
       
@@ -50,10 +50,10 @@ const Project = () => {
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/customcss.png"alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/resume.png"alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'> A Simple website</h3>
       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor qui debitis veniam voluptates possimus?</p>
-      <span><Link href="" className="span">preveiw</Link></span>
+      <span><Link href="https://github.com/iffatmumtaz/milestone-4" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Typescript</button>
           <button className="tag1">Next.js</button>
@@ -61,10 +61,10 @@ const Project = () => {
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/website.png"alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/furnio.png"alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'> My portfolio</h3>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, obcaecati. Explicabo in non eveniet.</p>
-      <span><Link href="" className="span">preveiw</Link></span>
+      <span><Link href="https://hackathon2-red.vercel.app/" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Typescript</button>
           <button className="tag1">Html</button>
@@ -72,10 +72,10 @@ const Project = () => {
           </div>
           </div> 
           <div className='card'>
-      <Image src="/images/resume.png"alt="" width={200}  height={200} className="img2"/>
+      <Image src="/images/web.png"alt="" width={200}  height={200} className="img2"/>
       <h3 className='card-h'>Custom css portfolio</h3>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores reiciendis cumque amet aut quas?</p>
-      <span><Link href="" className="span">preveiw</Link></span>
+      <span><Link href="https://github.com/iffatmumtaz/simple-website" className="span">preveiw</Link></span>
           <div className='tag-btn'>
           <button className="tag">Typescript</button>
           <button className="tag1">Html</button>
